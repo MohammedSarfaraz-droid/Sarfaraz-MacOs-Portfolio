@@ -359,57 +359,90 @@ export function Resume() {
 
           <ResumeSection title="Summary">
             <p>
-              Frontend developer and CSE student focused on modern, responsive web experiences. Internship and
-              part-time client experience; shipped production websites with HTML, Tailwind CSS, JavaScript, React
-              and Next.js. Currently expanding into the MERN stack, then cloud and AI.
+              Computer Science undergraduate with hands-on frontend development experience in React and Next.js.
+              Passionate about building responsive, user-centric web applications with clean, maintainable code.
+              Actively developing real-world projects while strengthening technical and communication skills.
             </p>
           </ResumeSection>
 
           <ResumeSection title="Experience">
-            <p className="font-semibold">AM Software Solutions — Frontend Developer (Part-time)</p>
-            <p className="text-gray-500 text-[10.5px]">Feb 2026 — Present</p>
-            <p className="mt-1">
-              Build client-ready websites that showcase design ideas and help win projects; responsive,
-              pixel-accurate interfaces with Tailwind CSS and shadcn/ui; Git/GitHub version control; production
-              deployment workflows. Selected work: Nick Contractor, Gutama Roofing, Topcoat LLC.
-            </p>
-            <p className="font-semibold mt-3">CoffeeMustache — Frontend Developer Intern</p>
-            <p className="text-gray-500 text-[10.5px]">Sep 2025 — Nov 2025</p>
-            <p className="mt-1">
-              Developed a café-focused POS frontend; collaborated on API integration; rebuilt the landing page in
-              Next.js; modernized UI/UX (self-estimated improvement ~70%).
-            </p>
+            <p className="font-semibold">AM Software Solution Jan 2026 – present</p>
+            <p className="text-gray-500 text-[10.5px]">Associate Frontend Developer | HTML, CSS, JavaScript, Next.js, Tailwind CSS</p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Delivered fully responsive production websites for international clients using modern frontend frameworks</li>
+              <li>Converted Figma and design mockups into optimized, cross-browser compatible frontend implementations</li>
+              <li>Worked on live client deployments ensuring performance optimization, responsiveness, and code quality</li>
+            </ul>
+
+            <p className="font-semibold mt-3">CoffeeMustache Sep 2025 – Nov 2025</p>
+            <p className="text-gray-500 text-[10.5px]">Frontend Developer Intern | React.js, Next.js, Tailwind CSS</p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Developed frontend modules for POS system using React.js with focus on usability and performance</li>
+              <li>Integrated REST APIs with backend services ensuring reliable data flow and responsive UI behavior</li>
+              <li>Redesigned landing page using Next.js improving usability, SEO structure, and load performance</li>
+            </ul>
           </ResumeSection>
 
           <ResumeSection title="Projects">
             <p>
-              <span className="font-semibold">SafeSpeak</span> — anonymous multilingual peer-support platform
-              (SPEC Industry Hack 2026): anonymous auth, language-based matching, realtime chat, English ↔ Hindi
-              translation. Next.js · Firebase · Vercel.
+              <span className="font-semibold">SafeSpeak (Hackathon Project)</span> | Next.js, Firebase, Tailwind CSS, JavaScript <span className="font-semibold">Live</span>
             </p>
-            <p className="mt-1.5">
-              <span className="font-semibold">LumeNoor</span> — conversion-focused agency landing page. Next.js ·
-              Tailwind CSS · Vercel.
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Built an anonymous multilingual peer-support platform during a 24-hour national-level hackathon</li>
+              <li>Implemented language-based peer matching, real-time conversations, reporting system, and moderation workflows</li>
+              <li>Integrated Firebase Authentication, Realtime Database, and Google Translation API for seamless multilingual communication</li>
+              <li>Deployed and optimized the application on Vercel with responsive UI and secure user flows</li>
+            </ul>
+
+            <p className="mt-3">
+              <span className="font-semibold">LumeNoor Agency Website</span> | Next.js, Tailwind CSS, JavaScript <span className="font-semibold">Live</span>
             </p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Designed and developed a modern agency landing page focused on converting visitors into potential clients</li>
+              <li>Created responsive layouts, reusable UI components, and performance-optimized frontend architecture</li>
+              <li>Implemented modern design patterns and smooth user interactions to enhance engagement</li>
+            </ul>
+
+            <p className="mt-3">
+              <span className="font-semibold">Client Websites Portfolio</span> | Next.js, Tailwind CSS, Vercel <span className="font-semibold">Nick Contractor</span>
+            </p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Built and deployed multiple production-ready business websites for clients while working at AM Software Solutions</li>
+              <li>Developed responsive, SEO-friendly interfaces tailored to contractor, roofing, and service-based businesses</li>
+              <li>Collaborated with stakeholders to transform business requirements into scalable frontend solutions</li>
+            </ul>
           </ResumeSection>
 
           <ResumeSection title="Education">
-            <p>B.E. Computer Science Engineering — ISL Engineering College (2024—2028), 3rd year</p>
-            <p className="mt-1">Intermediate (PCM) — Shaheen Junior College (2023—2024)</p>
-            <p className="mt-1">All Saints High School, Abids — 2022</p>
-          </ResumeSection>
-
-          <ResumeSection title="Skills">
             <p>
-              HTML · CSS · JavaScript · React · Next.js · Tailwind CSS · Bootstrap · Shadcn UI · REST APIs ·
-              Firebase (project experience) · Git · GitHub · Vercel
+              <span className="font-semibold">Bachelor of Engineering in Computer Science Engineering</span> 2024 – 2028 (Expected)
             </p>
-            <p className="mt-1 text-gray-500">Learning: Node.js · Express · MongoDB · Backend architecture</p>
+            <p className="mt-1">ISL Engineering College, affiliated to Osmania University CGPA: 8.3/10.0</p>
+            <p className="mt-1">Intermediate Education (PCM) Year of Passing: 2024</p>
+            <p className="mt-1">Shaheen Junior College Percentage: 83%</p>
           </ResumeSection>
 
-          <ResumeSection title="Achievements">
-            <p>Runner-Up — Hack4SDG (AIESEC × IIT Hyderabad), 2nd place, ₹10,000 prize</p>
-            <p className="mt-1">Participant — SPEC Industry Hack 2026 (24-hour national hackathon)</p>
+          <ResumeSection title="Technical Skills">
+            <p>Languages: JavaScript (ES6+), HTML5, CSS3</p>
+            <p className="mt-1">Frameworks & Libraries: React.js, Next.js, Tailwind CSS, Bootstrap, shadcn/ui</p>
+            <p className="mt-1">Tools & Technologies: Git, GitHub, npm, VS Code, GitHub Copilot, Vercel, REST APIs, WebSocket</p>
+            <p className="mt-1">Core Competencies: Responsive Web Design, SEO Optimization, Cross-Browser Compatibility, Performance Tuning</p>
+          </ResumeSection>
+
+          <ResumeSection title="Achievements & Certifications">
+            <p>
+              <span className="font-semibold">Runner-Up – Hack4SDG Hackathon (AIESEC, IIT Hyderabad)</span>
+            </p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Secured 2nd place in national-level hackathon focused on Sustainable Development Goals; awarded INR 10,000</li>
+            </ul>
+
+            <p className="mt-3">
+              <span className="font-semibold">Frontend Development Certification – The Siasat Daily</span>
+            </p>
+            <ul className="mt-1 list-disc pl-4 space-y-1">
+              <li>Completed comprehensive training in HTML, CSS, JavaScript, React.js, and GitHub collaboration workflows</li>
+            </ul>
           </ResumeSection>
         </div>
       </div>
