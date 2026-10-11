@@ -17,6 +17,7 @@ export const PROFILE = {
   linkedin: 'https://linkedin.com/in/mdsarfarazuddin',
   github: 'https://github.com/MohammedSarfaraz-droid',
   githubUser: 'MohammedSarfaraz-droid',
+  website: 'https://www.sarfarazuddin.online',
 };
 
 export const RESUME_URL = 'https://drive.google.com/file/d/112Ls9OAmHJSxDiNvz45dzsH1WBsCBaYr/view?usp=sharing';

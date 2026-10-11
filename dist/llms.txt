@@ -1,67 +1,43 @@
 # Mohammed Sarfaraz Uddin Nasser
 
-> Frontend Developer · Computer Science Engineering Student · Hyderabad, India  
-> Portfolio & Interactive macOS Workspace: https://sarfaraznasser.dev
+> Frontend Developer & Computer Science Engineering student based in Hyderabad, India. Interactive macOS desktop portfolio built with React, Next.js, TypeScript, and Tailwind CSS.
 
-## Summary
-Mohammed Sarfaraz Uddin Nasser (Sarfaraz) is an ambitious Frontend Developer and 3rd-year Computer Science Engineering student at ISL Engineering College (2024–2028) based in Hyderabad, India. He specializes in React, Next.js, TypeScript, JavaScript, and Tailwind CSS. He has shipped real-world client-facing websites and won 2nd Place (₹10,000 cash prize) at the national-level Hack4SDG hackathon organized by AIESEC and IIT Hyderabad.
-
-## Contact & Online Profiles
-- **Full Name**: Mohammed Sarfaraz Uddin Nasser
-- **Preferred Name**: Sarfaraz
-- **Location**: Hyderabad, India
-- **Email**: sarfarazuddin9999@gmail.com
-- **Phone**: +91-6305530645
-- **GitHub**: https://github.com/MohammedSarfaraz-droid
-- **LinkedIn**: https://linkedin.com/in/mdsarfarazuddin
-- **Resume**: https://drive.google.com/file/d/112Ls9OAmHJSxDiNvz45dzsH1WBsCBaYr/view?usp=sharing
-
-## Primary Technical Skills
-- **Frontend Core**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js
-- **Styling & UI**: Tailwind CSS, Shadcn UI, Bootstrap, Responsive UI Design, Glassmorphism, Micro-animations
-- **Backend & APIs**: REST APIs, Firebase Authentication & Realtime Database, Node.js (Learning), Express (Learning), MongoDB (Learning)
-- **Tooling & Platforms**: Git, GitHub, Vercel, Vite, npm, macOS, Linux, AI-assisted development workflows
-
-## Work Experience
-- **Frontend Developer (Part-time)** at AM Software Solutions (February 2026 — Present)
-  - Developed modern, responsive, pixel-accurate web interfaces using Next.js and Tailwind CSS.
-  - Delivered production marketing websites for small and medium businesses (Nick Contractor, Gutama Roofing, Topcoat LLC).
-  - Optimized site performance, accessibility, and responsiveness across desktop and mobile devices.
-  - Leveraged Git and GitHub for version control and CI/CD deployment on Vercel.
-- **Frontend Developer Intern** at CoffeeMustache (September 2025 — November 2025)
-  - Contributed to the frontend engineering of a café-focused POS system.
-  - Rebuilt the public landing page with Next.js, achieving ~70% self-estimated UI/UX improvement.
-  - Collaborated with backend engineers to integrate REST APIs and ensure seamless data flow.
+Mohammed Sarfaraz Uddin Nasser (Sarfaraz) is an ambitious Frontend Developer and 3rd-year Computer Science Engineering student at ISL Engineering College (2024–2028). He specializes in React, Next.js, TypeScript, JavaScript, and Tailwind CSS. He builds production client-facing web applications, modern responsive UI interfaces, and won 2nd Place (₹10,000 cash prize) at the national-level Hack4SDG hackathon organized by AIESEC and IIT Hyderabad.
 
 ## Key Projects
-- **SafeSpeak** (Hackathon Project · SPEC Industry Hack 2026)
-  - Anonymous multilingual peer-support platform designed around private real-time conversations and language-based matching.
-  - Designed and shipped in 24 hours at a national-level hackathon.
-  - Tech: Next.js, Tailwind CSS, Firebase Authentication, Firebase Realtime Database, Google Translation API, Vercel.
-  - Live Demo: https://spih-146.vercel.app/ | Code: https://github.com/MohammedSarfaraz-droid/SafeSpeak.git
-- **LumeNoor** (Personal Project)
-  - Agency landing page presenting web development services with high-converting typography and responsive layouts.
-  - Tech: Next.js, Tailwind CSS, JavaScript, Vercel.
-  - Live Demo: https://lumenoor.com/ | Code: https://github.com/MohammedSarfaraz-droid/LumeNoor.git
-- **Nick Contractor** (Professional / Client Project)
-  - Production website for a general contracting business built to generate homeowner leads.
-  - Live: https://www.nickcontractor.com/
-- **Gutama Roofing** (Professional / Client Project)
-  - Brand-aligned commercial and residential roofing company website in New Jersey.
-  - Live: https://www.gutamaroofingnj.com/
-- **Topcoat LLC** (Professional / Client Project)
-  - Clean, high-conversion painting contractor website.
-  - Live: https://www.topcoat-llc.com/
 
-## Awards & Achievements
-- **Runner-Up (2nd Place · ₹10,000 cash prize)**: Hack4SDG National Hackathon (AIESEC × IIT Hyderabad) focused on Sustainable Development Goals.
-- **Hackathon Finalist**: SPEC Industry Hack 2026 (24-hour national hackathon, built SafeSpeak).
-- **Certification**: Siasat Frontend Development Course (HTML, CSS, JavaScript, modern frontend tooling).
+- [SafeSpeak](https://spih-146.vercel.app/): Anonymous multilingual peer-support platform with real-time conversations and language-based matching, built in 24 hours at SPEC Industry Hack 2026.
+- [SafeSpeak Source Code](https://github.com/MohammedSarfaraz-droid/SafeSpeak): Open-source repository for SafeSpeak built with Next.js, Tailwind CSS, and Firebase.
+- [LumeNoor](https://lumenoor.com/): Agency landing page presenting web-development services through a polished, conversion-focused interface.
+- [LumeNoor Source Code](https://github.com/MohammedSarfaraz-droid/LumeNoor): Open-source GitHub repository for LumeNoor.
+- [Nick Contractor](https://www.nickcontractor.com/): Production marketing website for general contracting business, delivered at AM Software Solutions.
+- [Gutama Roofing](https://www.gutamaroofingnj.com/): Brand-aligned commercial and residential roofing company website in New Jersey.
+- [Topcoat LLC](https://www.topcoat-llc.com/): Clean, high-conversion painting contractor website.
 
-## Education
-- **Bachelor of Engineering in Computer Science Engineering**: ISL Engineering College, Hyderabad (2024 — 2028)
-- **Intermediate Education (PCM)**: Shaheen Junior College (2023 — 2024)
-- **Secondary School Certificate (SSC)**: All Saints High School, Abids, Hyderabad (Completed 2022)
+## Contact & Profiles
 
-## Detailed Documentation
-- Full Documentation: https://sarfaraznasser.dev/llms-full.txt
+- [Interactive macOS Portfolio](https://www.sarfarazuddin.online/): Interactive desktop workspace showcasing projects, terminal, and skills.
+- [GitHub Profile](https://github.com/MohammedSarfaraz-droid): Source code repositories, open-source work, and code contributions.
+- [LinkedIn Profile](https://linkedin.com/in/mdsarfarazuddin): Professional experience, career updates, and professional network.
+- [Resume](https://drive.google.com/file/d/112Ls9OAmHJSxDiNvz45dzsH1WBsCBaYr/view?usp=sharing): Downloadable developer resume and curriculum vitae.
+- [Direct Email](mailto:sarfarazuddin9999@gmail.com): Direct contact channel for hiring, frontend roles, and freelance projects.
+
+## Professional Experience & Education
+
+- [AM Software Solutions](https://www.sarfarazuddin.online/#experience): Frontend Developer (Part-time, Feb 2026 — Present) developing modern, responsive Next.js client websites.
+- [CoffeeMustache](https://www.sarfarazuddin.online/#experience): Frontend Developer Intern (Sep 2025 — Nov 2025) rebuilding the landing page and POS interfaces.
+- [ISL Engineering College](https://www.sarfarazuddin.online/#education): Bachelor of Engineering in Computer Science Engineering (2024 — 2028).
+- [Hack4SDG IIT Hyderabad](https://www.sarfarazuddin.online/#achievements): Runner-Up (2nd Place, ₹10,000 cash prize) at national-level hackathon.
+
+## Technical Skills
+
+- [Core Technologies](https://www.sarfarazuddin.online/#skills): HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js.
+- [UI & Styling](https://www.sarfarazuddin.online/#skills): Tailwind CSS, Shadcn UI, Bootstrap, Responsive UI Design, Micro-animations.
+- [Backend & APIs](https://www.sarfarazuddin.online/#skills): REST APIs, Firebase Authentication, Firebase Realtime Database.
+- [Developer Tooling](https://www.sarfarazuddin.online/#skills): Git, GitHub, Vercel, Vite, npm, macOS, Linux.
+
+## Optional
+
+- [Full LLM Knowledge Base](https://www.sarfarazuddin.online/llms-full.txt): Deep architectural context, case studies, and complete Q&A documentation for AI agents.
+- [XML Sitemap](https://www.sarfarazuddin.online/sitemap.xml): Machine-readable index of all portfolio URLs, project screenshots, and certificates.
+- [Robots Directives](https://www.sarfarazuddin.online/robots.txt): Crawler rules and permissions for web and AI crawlers.

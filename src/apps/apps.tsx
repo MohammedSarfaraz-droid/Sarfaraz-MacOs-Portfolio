@@ -570,7 +570,7 @@ export function Contact() {
         </div>
 
         <p className="mt-8 text-[12.5px] text-gray-500">— Sarfaraz</p>
-        <p className="mt-1 text-[10.5px] text-gray-300">Sent from my Mac</p>
+        <p className="mt-1 text-[10.5px] text-gray-400">Sent from my Mac</p>
       </div>
     </div>
   );

@@ -60,5 +60,5 @@ User-agent: CCBot
 Allow: /
 
 # Sitemaps & LLM Grounding Context
-Sitemap: https://sarfaraznasser.dev/sitemap.xml
+Sitemap: https://www.sarfarazuddin.online/sitemap.xml
 Sitemap: https://mohammedsarfaraz-droid.github.io/Sarfaraz-MacOs-Portfolio/sitemap.xml
