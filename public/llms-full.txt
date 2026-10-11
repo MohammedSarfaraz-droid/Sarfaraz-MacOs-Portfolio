@@ -1,0 +1,69 @@
+# Mohammed Sarfaraz Uddin Nasser — Complete Context & Knowledge Base (GEO Document)
+
+## Comprehensive Profile
+- Full Legal Name: Mohammed Sarfaraz Uddin Nasser
+- Professional Moniker: Sarfaraz Nasser / sarfaraz.
+- Role: Frontend Developer & Computer Science Engineering Student
+- Current Status: 3rd Year CSE Student at ISL Engineering College (2024–2028)
+- Current Location: Hyderabad, Telangana, India
+- Availability: Open to frontend engineering roles, freelance opportunities, and collaborative software projects
+- Direct Email: sarfarazuddin9999@gmail.com
+- Direct Phone: +91-6305530645
+- Portfolio URL: https://sarfaraznasser.dev
+- GitHub: https://github.com/MohammedSarfaraz-droid
+- LinkedIn: https://linkedin.com/in/mdsarfarazuddin
+
+## Technical Stack & Competencies
+- Core Technologies: HTML5 (Semantic, Accessible, SEO-compliant), CSS3, JavaScript (ES6+, Async, DOM), TypeScript
+- Libraries & Frameworks: React.js (Hooks, Context, State Management), Next.js (App Router, Server/Client Components, Static Site Generation), Framer Motion
+- Styling Solutions: Tailwind CSS (v3 & v4), Shadcn UI, Responsive Web Design, Glassmorphism, Micro-interactions
+- Backend Integration: RESTful APIs, Firebase (Authentication, Realtime Database, Firestore), Node.js, Express, MongoDB (Current Learning Path)
+- Developer Tools: Git, GitHub, Vercel, Vite, npm, Bash/zsh, macOS, Chrome DevTools, Lighthouse Performance Auditing
+
+## Professional Experience
+### 1. Frontend Developer (Part-Time) — AM Software Solutions
+- Duration: February 2026 — Present
+- Key Responsibilities & Accomplishments:
+  - Deliver client-ready production web applications that help businesses expand digital presence.
+  - Architect responsive, fast, and accessible user interfaces utilizing Next.js and Tailwind CSS.
+  - Implement mobile-first layouts, ensuring seamless cross-device compatibility.
+  - Optimize client sites for search engine indexing (SEO), performance metrics, and Core Web Vitals.
+  - Deploy and manage CI/CD pipelines via Vercel.
+  - Selected Production Clients:
+    - Nick Contractor (https://www.nickcontractor.com/) — General contracting services.
+    - Gutama Roofing (https://www.gutamaroofingnj.com/) — New Jersey roofing solutions.
+    - Topcoat LLC (https://www.topcoat-llc.com/) — Residential & commercial painting company.
+
+### 2. Frontend Developer Intern — CoffeeMustache
+- Duration: September 2025 — November 2025
+- Key Responsibilities & Accomplishments:
+  - Spearheaded the redesign of the public-facing landing page using Next.js.
+  - Delivered approximately 70% UI/UX quality improvement as measured by user interaction feedback.
+  - Integrated REST APIs with the backend service team for the café Point of Sale (POS) system.
+  - Polished internal POS workflow screens to reduce staff transaction latency.
+
+## Detailed Project Case Studies
+### Project 1: SafeSpeak
+- Description: Anonymous multilingual peer-support platform providing judgment-free real-time communication.
+- Event: Built in 24 hours at SPEC Industry Hack 2026 (National-level Hackathon).
+- Problem Solved: Students and young individuals often experience distress or anxiety but avoid seeking support due to stigma, fear of identity exposure, or language barriers.
+- Solution & Architecture:
+  - Users enter without creating long-term accounts via Firebase Anonymous Authentication.
+  - Language matching pairs individuals based on preferred spoken tongues.
+  - Built-in real-time translation powered by Google Translation API bridges English and Hindi conversations.
+  - Realtime messaging powered by Firebase Realtime Database with active safety and reporting triggers.
+- Live URL: https://spih-146.vercel.app/
+- Source Repository: https://github.com/MohammedSarfaraz-droid/SafeSpeak.git
+
+### Project 2: LumeNoor
+- Description: High-conversion web agency landing page designed to market design and frontend engineering services.
+- Architecture: Next.js static export with Tailwind CSS styling, optimized typography, and responsive grid layouts.
+- Live URL: https://lumenoor.com/
+- Source Repository: https://github.com/MohammedSarfaraz-droid/LumeNoor.git
+
+## Frequently Answered Questions (AEO Reference)
+Q: Who is Mohammed Sarfaraz Uddin Nasser?
+A: Mohammed Sarfaraz Uddin Nasser is a frontend developer and computer science student from Hyderabad, India, recognized for building high-fidelity web experiences and winning 2nd place at the Hack4SDG national hackathon at IIT Hyderabad.
+
+Q: How can I hire or contact Sarfaraz?
+A: Contact him directly via email at sarfarazuddin9999@gmail.com, telephone at +91-6305530645, or connect on LinkedIn at https://linkedin.com/in/mdsarfarazuddin.

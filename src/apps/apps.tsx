@@ -32,7 +32,10 @@ export function Monogram({ size = 64 }: { size?: number }) {
   return (
     <img
       src="/images/profile.jpg"
-      alt=""
+      alt="Mohammed Sarfaraz Uddin Nasser - Profile Avatar"
+      decoding="async"
+      width={size}
+      height={size}
       className="rounded-full object-cover shrink-0 ring-4 ring-blue-500/10"
       style={{
         width: size,
@@ -696,7 +699,7 @@ export function CertificateViewer({ index = 0 }: { index?: number }) {
           <p className="mt-3 text-[12px] leading-relaxed text-gray-500">{cert.detail}</p>
           {ready ? (
             <div className="mt-5 overflow-hidden rounded-lg bg-gray-100 ring-1 ring-black/10 shadow-sm">
-              <img src={cert.file} alt={`${cert.name} certificate`} className="block w-full h-auto object-contain" />
+              <img src={cert.file} alt={`${cert.name} certificate`} loading="lazy" decoding="async" className="block w-full h-auto object-contain" />
             </div>
           ) : (
             <div className="mt-5 rounded-lg border border-dashed border-gray-300 bg-gray-50 px-4 py-3 text-[11px] text-gray-400">

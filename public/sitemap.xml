@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sarfaraznasser.dev/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Primary Profile Picture -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/profile.jpg</image:loc>
+      <image:title>Mohammed Sarfaraz Uddin Nasser - Frontend Developer</image:title>
+      <image:caption>Mohammed Sarfaraz Uddin Nasser, Frontend Developer and Computer Science Engineering Student in Hyderabad, India</image:caption>
+    </image:image>
+
+    <!-- Social Share Preview -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/og-image.png</image:loc>
+      <image:title>Mohammed Sarfaraz Uddin Nasser - macOS Portfolio Preview</image:title>
+      <image:caption>Interactive macOS desktop portfolio preview showcasing React, Next.js, and modern frontend web projects</image:caption>
+    </image:image>
+
+    <!-- Project 1: SafeSpeak -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/shot-safespeak.jpg</image:loc>
+      <image:title>SafeSpeak - Anonymous Multilingual Peer Support Platform</image:title>
+      <image:caption>Hackathon project built in 24 hours at SPEC Industry Hack 2026 using Next.js, Tailwind CSS, Firebase, and Google Translation API</image:caption>
+    </image:image>
+
+    <!-- Project 2: LumeNoor -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/shot-lumenoor.jpg</image:loc>
+      <image:title>LumeNoor - Web Development Agency Landing Page</image:title>
+      <image:caption>Modern conversion-focused agency landing page built with Next.js and Tailwind CSS</image:caption>
+    </image:image>
+
+    <!-- Project 3: Nick Contractor -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/shot-nick.jpg</image:loc>
+      <image:title>Nick Contractor - Production Website</image:title>
+      <image:caption>Commercial contracting company website built as part of client work at AM Software Solutions</image:caption>
+    </image:image>
+
+    <!-- Project 4: Gutama Roofing -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/shot-gutama.jpg</image:loc>
+      <image:title>Gutama Roofing - Production Client Website</image:title>
+      <image:caption>Commercial roofing company website built as part of client work at AM Software Solutions</image:caption>
+    </image:image>
+
+    <!-- Project 5: Topcoat LLC -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/shot-topcoat.jpg</image:loc>
+      <image:title>Topcoat LLC - Production Client Website</image:title>
+      <image:caption>Residential and commercial painting company website built as part of client work at AM Software Solutions</image:caption>
+    </image:image>
+
+    <!-- Certificates -->
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/IndustryHack2026_Certificate_Mohammed_Sarfaraz_uddin_Nasser.png</image:loc>
+      <image:title>SPEC Industry Hack 2026 Participation Certificate</image:title>
+      <image:caption>24-hour national hackathon certificate for building SafeSpeak</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/Hack4sdg-participation.jpeg</image:loc>
+      <image:title>Hack4SDG IIT Hyderabad Certificate</image:title>
+      <image:caption>Runner-Up 2nd Place award at Hack4SDG national hackathon by AIESEC and IIT Hyderabad</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://sarfaraznasser.dev/images/siasat-React-certificate.jpeg</image:loc>
+      <image:title>Siasat Frontend Development Certificate</image:title>
+      <image:caption>Frontend development certification covering HTML, CSS, JavaScript, and modern web tooling</image:caption>
+    </image:image>
+  </url>
+</urlset>

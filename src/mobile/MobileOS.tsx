@@ -81,7 +81,7 @@ export default function MobileOS() {
       }}
     >
       <div className="fixed inset-0 overflow-hidden select-none">
-        <img src="/images/wallpaper.jpg" alt="" className="absolute inset-0 w-full h-full object-cover" draggable={false} />
+        <img src="/images/wallpaper.jpg" alt="macOS Sonoma Wallpaper Background" decoding="async" fetchPriority="high" className="absolute inset-0 w-full h-full object-cover" draggable={false} />
 
         {/* home */}
         <div className="absolute inset-0 flex flex-col">

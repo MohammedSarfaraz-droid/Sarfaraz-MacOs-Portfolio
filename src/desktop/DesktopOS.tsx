@@ -215,7 +215,9 @@ export default function DesktopOS() {
         {/* wallpaper */}
         <motion.img
           src="/images/wallpaper.jpg"
-          alt=""
+          alt="macOS Sonoma Wallpaper Background"
+          decoding="async"
+          fetchPriority="high"
           initial={{ opacity: 0, scale: 1.04 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1.1, ease: [0.32, 0.72, 0, 1] }}

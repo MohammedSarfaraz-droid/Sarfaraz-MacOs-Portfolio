@@ -96,7 +96,7 @@ export default function Photos() {
                 albumId === a.id ? 'bg-black/[0.07]' : 'hover:bg-black/4'
               }`}
             >
-              <img src={a.photos[0].img} alt="" className="w-7 h-7 rounded-[5px] object-cover ring-1 ring-black/10" />
+              <img src={a.photos[0].img} alt={a.label} loading="lazy" decoding="async" className="w-7 h-7 rounded-[5px] object-cover ring-1 ring-black/10" />
               <span className="min-w-0">
                 <span className="block text-[12.5px] font-medium text-gray-800 truncate">{a.label}</span>
                 <span className="block text-[10.5px] text-gray-400">{a.photos.length}</span>
@@ -139,6 +139,7 @@ export default function Photos() {
                   src={ph.img}
                   alt={ph.title}
                   loading="lazy"
+                  decoding="async"
                   className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-[1.03] transition duration-500"
                 />
                 <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 to-transparent px-2.5 pb-1.5 pt-6 text-left">
@@ -175,6 +176,7 @@ export default function Photos() {
             <img
               src={photo.img}
               alt={photo.title}
+              decoding="async"
               className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
             />
           </div>

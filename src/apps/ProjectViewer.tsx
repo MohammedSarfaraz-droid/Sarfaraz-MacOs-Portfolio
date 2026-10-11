@@ -33,6 +33,7 @@ export default function ProjectViewer({ slug }: { slug: string }) {
             src={p.image}
             alt={`${p.name} website preview`}
             loading="lazy"
+            decoding="async"
             className="w-full aspect-[16/9.5] object-cover object-top"
           />
         </div>

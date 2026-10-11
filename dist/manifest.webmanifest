@@ -1,0 +1,33 @@
+{
+  "name": "Mohammed Sarfaraz Uddin Nasser — Portfolio",
+  "short_name": "Sarfaraz",
+  "description": "Interactive macOS desktop portfolio of Mohammed Sarfaraz Uddin Nasser. Frontend Developer & CSE Student specializing in React, Next.js, and modern UI engineering.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f19",
+  "theme_color": "#0ea5e9",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["portfolio", "developer", "technology", "productivity"],
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -120,6 +120,7 @@ export function Safari() {
                       src={p.image}
                       alt={p.name}
                       loading="lazy"
+                      decoding="async"
                       className="w-full aspect-[16/10] object-cover object-top group-hover:scale-[1.02] transition duration-500"
                     />
                     {p.kind === 'Hackathon Project' && (
@@ -171,7 +172,7 @@ function SafariPage({ slug }: { slug: string }) {
   return (
     <div className="px-5 md:px-8 py-6 max-w-[820px] mx-auto">
       <div className="rounded-xl overflow-hidden ring-1 ring-black/10 shadow-lg bg-white">
-        <img src={p.image} alt={p.name} loading="lazy" className="w-full aspect-[16/9] object-cover object-top" />
+        <img src={p.image} alt={p.name} loading="lazy" decoding="async" className="w-full aspect-[16/9] object-cover object-top" />
       </div>
       <div className="mt-5 flex flex-wrap items-start justify-between gap-4">
         <div className="max-w-[520px]">
@@ -308,6 +309,8 @@ export function GitHubApp() {
               <img
                 src={user.avatar_url}
                 alt={`${user.login} avatar`}
+                loading="lazy"
+                decoding="async"
                 className="w-16 h-16 rounded-full ring-1 ring-black/10"
               />
               <div className="min-w-0">
